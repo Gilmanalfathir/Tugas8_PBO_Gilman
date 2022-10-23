@@ -1,3 +1,9 @@
+/* Nama program : Tugas 8 UTS No. 4.java
+Nama : Gilman Nahdi Al-fathir
+NPM : 140810210060
+Tanggal buat : 23-10-2022
+Deskripsi : parkir
+******************************************************/
 import java.util.Scanner;
 
 class Waktu{
