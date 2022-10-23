@@ -1,3 +1,10 @@
+# Nama program : Tugas 8 UTS No. 4.py
+# Nama : Gilman Nahdi Al-fathir
+# NPM : 140810210060
+# Tanggal buat : 23-10-2022
+# Deskripsi : parkir
+#-------------------------------------------------
+
 class Waktu:
     __jam = 0
     __menit = 0
